@@ -17,7 +17,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    // dummy commit
+    // dummy 
   }
 
 }
